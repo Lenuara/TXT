@@ -7,5 +7,5 @@ Steps to reproduce:
 2. Follow "New account" link
 3. Registration form is open
 Actual result: Missing input field name 'Date of birth'
-Expected result: The name of the field "Date of birth" in the  registration form is near the input field
+Expected result: The name of the field 'Date of birth' in the  registration form is near the input field
 Attachment: www.radikal.ru/qwerty.jpg
