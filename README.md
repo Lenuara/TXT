@@ -33,7 +33,7 @@
 11. Создать файл sklls.txt, добавить информацию о скиллах которые будут изучены на курсе в формате TXT   
     `vim sklls.txt`
 12. Сделать коммит в одну строку.  
-    `git commit -am "Add preferences.txt and sklls.txt"`
+    `git add . && git commit -m "Add preferences.txt and sklls.txt"`
 13. Отправить сразу 2 файла на внешний репозиторий.  
     `git push`
 14. На веб интерфейсе создать файл bug_report.txt.  
